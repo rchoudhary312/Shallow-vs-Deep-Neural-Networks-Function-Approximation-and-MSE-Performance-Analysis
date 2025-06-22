@@ -19,7 +19,7 @@ This project belongs to the domain of deep learning theory and function approxim
 
 - Computed targets using the function: y = 2 * (2 * cos²(x) - 1)² - 1
 
-- Split into 60,000 training and 60,000 testing examples
+- 50 - 50 Split into 60,000 training and 60,000 testing examples
 
 2. Neural Network Architectures:
 
